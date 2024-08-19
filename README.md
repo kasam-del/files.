@@ -1,2 +1,2 @@
-# files.
-files.elixir.finance
+# rewards.
+rewards.elixir.finance
